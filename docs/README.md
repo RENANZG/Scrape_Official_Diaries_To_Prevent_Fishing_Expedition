@@ -1,3 +1,5 @@
+### Concept phase for a machine learning system that prevents police "fishing expedition" techniques. Based on the right to preventive self-defense.
+
 **Português (BR)** | [English (US)](/docs/README-en-US.md) 
 
 <p align="center">
